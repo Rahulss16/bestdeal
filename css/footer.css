@@ -1,0 +1,38 @@
+footer{
+    background-color: #303030;
+    border-top: 1px solid #ddd;
+    color: #e2e2e2;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+p {
+    margin: 0 0 10px;
+}
+#container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.info {
+    color: white;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.info ul{list-style: none; display: block; margin: 0px auto; padding: 0px; text-align: center; }
+.info  ul li{display: inline-block; margin-right: 10px;list-style: none;}
+.info  ul li a{display: block; border-radius: 50px; color: #fff; padding: 0px 10px; font-size: 16px; font-weight: bold;}
+
+.social_icon{padding: 20px; display: block}
+.social_icon ul{list-style: none; display: block; margin: 0px auto; padding: 0px; text-align: center; }
+.social_icon ul li{display: inline-block; margin-right: 10px;list-style: none;}
+.social_icon ul li a{display: block; width: 50px; height: 50px; background: rgb(32,149,193); border-radius: 50px; color: #111111;}
+.social_icon ul li a .fa{padding-top: 17px; color: white}
+.footer_contact{padding: 20px; display: block}
+.footer_contact ul{list-style: none; display: block; margin: 0px auto; padding: 0px; text-align: center; }
+.footer_contact ul li{display: inline-block;list-style: none; border-right: 1px solid #9d9d9d;}
+.footer_contact ul li:last-child{border-right: 0px;}
+.footer_contact ul li a{ color: #111111; padding: 10px; color: #cccccc; font-size: 12px; text-align: center;}
+.footer_bottem{display: block ; font-size: 14px; text-align: center; padding: 10px;}
+.footer_bottem a{color: rgb(32, 149, 193); text-decoration: none;}

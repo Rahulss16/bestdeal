@@ -1,0 +1,53 @@
+
+
+#horizontal{
+    margin-top: 5%;
+}
+#horizontal ul {
+    background-color: black;
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+    height: 8.7%;
+}
+
+
+#horizontal ul li {
+    float: left;
+}
+#horizontal ul li a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 16px;
+    color: white;
+    font-size: 20px;
+}
+#horizontal ul li a:hover:not(.active) {
+    background-color: #111;
+}
+.active {
+    background-color: green;
+}
+#vertical ul {
+    background-color: black;
+    list-style-type: none;
+    overflow: hidden;
+    width: 15%;
+}
+#vertical ul li{
+
+    display: block;
+    padding: 10px;
+}
+#vertical ul li a {
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+    color: white;
+    font-size: 20px;
+}
+.nav {
+    background-color: green;
+}
+
