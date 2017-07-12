@@ -1,0 +1,121 @@
+#header{
+	min-height: 0px;
+	background: #FFFFFF;
+	border-bottom: 1px solid #E5E5E5;
+	margin: 0;
+	padding: 0;
+}
+a {
+    color: #1e91cf;
+    text-decoration: none;
+}
+label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    max-width: 100%;
+    font-weight: normal;
+}
+.login_box{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+    width: 370px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    border: 1px solid #ddd;
+}
+.heading {
+    background: #fcfcfc none repeat scroll 0 0;
+    border-color: #e8e8e8;
+    color: #595959;
+    padding: 10px 15px;
+}
+.heading i {
+    font-size: 16px;
+    font-weight: 500;
+}
+.upr_title {
+    color: inherit;
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.mid-body {
+    padding: 15px;
+}
+.form-input {
+    margin-bottom: 0;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.input-group {
+    border-collapse: separate;
+    display: table;
+    position: relative;
+}
+.input-icon {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    color: #555;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 1;
+    padding: 8px 13px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 1%;
+    display: table-cell;
+    border-radius: 3px 0px 0px 3px;
+}
+.form-in {
+    float: left;
+    margin-bottom: 0;
+    position: relative;
+    width: 100%;
+    z-index: 2;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #555;
+    display: block;
+    font-size: 12px;
+    height: 15px;
+    line-height: 1.42857;
+    padding: 8px 13px;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    width: 90%;
+    border-radius: 0 3px 3px 0;
+}
+.btn {
+    background-color: #1e91cf;
+    border-color: #1978ab;
+    color: #fff;
+
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 1.42857;
+    margin-bottom: 0;
+    padding: 8px 13px;
+    text-align: center;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+footer {
+    height: 100px;
+    text-align: center;
+    margin-top: 3%;
+}
+
+/*Dashboard*/
