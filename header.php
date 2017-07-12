@@ -3,9 +3,9 @@
 <html>
 <head>
     <meta charset="utf-8">
-        <link href="http://localhost/21-06/css/home.css" rel="stylesheet">
-    <link href="http://localhost/21-06/css/footer.css" rel="stylesheet">
-    <link href="http://localhost/21-06/css/font-awesome.min.css" rel="stylesheet">
+        <link href="http://localhost/bestdeal/css/home.css" rel="stylesheet">
+    <link href="http://localhost/bestdeal/css/footer.css" rel="stylesheet">
+    <link href="http://localhost/bestdeal/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
 <div id="head">
