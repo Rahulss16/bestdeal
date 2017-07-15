@@ -1,3 +1,7 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
 #header{
 	min-height: 0px;
 	background: #FFFFFF;
@@ -41,7 +45,7 @@ label {
     margin-top: 0;
     font-weight: normal;
 }
-
+.clear{clear:both;}
 .mid-body {
     padding: 15px;
 }
@@ -119,3 +123,93 @@ footer {
 }
 
 /*Dashboard*/
+
+#container {
+    min-height: 100%;
+    position: relative;
+    width: 100%;
+    display: block;
+    margin: 70px 0px 0px;
+}
+header a
+a {
+    color: #1e91cf;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+.dropdown {
+    position: relative;
+}
+.icon-bar {
+    background-color: #555;
+    display: block;
+    float: left;
+    min-height: 500px;
+    position: fixed;
+    width: 16%;
+}
+
+.icon-bar a {
+    color: white;
+    display: block;
+    font-size: 16px;
+    padding: 16px;
+    text-align: left;
+    transition: all 0.3s ease 0s;
+}
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.active {
+    background-color: #1e91cf !important;
+}
+/**/
+.contact_box {
+    float: right;
+    padding: 10px;
+    width: 82%;
+    display: block;
+}
+.deshboard_head{background: #eee; display: block;  padding: 10px;    position: fixed;    top: 0;vertical-align: top;width: 100%; z-index: 999;}
+.deshboard_head ul{float: right; width: 30%; display: block; padding-right: 25px; list-style: none; text-align: right;}
+.deshboard_head ul li{list-style: none; display: inline-block; padding: 0px 10px;}
+.deshboard_head ul li a{display: block; color: #000; font-size: 14px;text-decoration:none;}
+.deshboard_head ul li a:hover{text-decoration:none;color: #1e91cf; }
+.header-box {width: 100%; display: block; box-sizing: border-box; }
+.header-box ul{width: 25%; list-style: none; width: 100%; display: block;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+}
+.header-box ul li {list-style: none; width: 30%; display: inline-block; margin-right:3%; background-color: #1e91cf; color: white; }
+.upper-section{
+    background-color: #1e91cf;
+    color: #fff;
+    padding: 0px 14px;
+    text-transform: uppercase;
+}
+.mid-section{
+    color: #ffffff;
+    line-height: 48px;
+    padding: 15px;
+}
+
+.header-box .mid-section i{
+    font-size: 50px;
+    opacity: 0.3;
+    transition: all 1s ease 0s;
+}
+.lower-section{
+    background-color: #3da9e3;
+    padding: 5px 8px;
+    box-sizing: border-box;
+}
+.lower-section h5{padding: 0px; margin: 0px; }
+.lower-section h5 a{display: block; color: #FFFFFF;font-size: 14px; font-weight: normal;}
+.count-section{float: right;}

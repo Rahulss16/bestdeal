@@ -36,7 +36,7 @@
 </div>
 <div id="midbar">
     <div id="logo">
-        <a href="<?php echo SITE_URL . 'index.php'; ?>"><img src="http://localhost/21-06/images/best_deal.png"></a>&nbsp;
+        <a href="<?php echo SITE_URL . 'index.php'; ?>"><img src="http://localhost/bestdeal/images/best_deal.png"></a>&nbsp;
     </div>
     <div id="search_btn">
         <form action="<?php echo SITE_URL . 'product/search.php'; ?>" >
