@@ -27,7 +27,7 @@ if(isset($_POST) && !empty($_POST)) {
         //  echo "<pre>";
         //   print_r($error); die;
 
-        header("Location:../dash/add-category.php");
+        header("Location:add-category.php");
         die;
     }
 
@@ -48,7 +48,7 @@ if(isset($_POST) && !empty($_POST)) {
     // echo "<pre>"; print_r($result); die;
     if($result){
 //        echo 'data inserted successfully';
-        header('Location:../dash/categories.php');
+        header('Location:../categories.php');
     }
 
     else{

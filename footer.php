@@ -22,7 +22,7 @@ include_once 'config/config.php';
                 <ul>
                     <li><a href="<?php echo SITE_URL . 'index.php'; ?>">HOME</a></li>
                     <li><a href="<?php echo SITE_URL . '/product/privacy.php';?>">Privacy & Policy</a></li>
-                    <li><a href="#">Terms and Conditions</a></li>
+                    <li><a href="<?php echo SITE_URL . '/product/terms.php';?>">Terms and Conditions</a></li>
                 </ul>
             </div>
            <div class="clear"></div>

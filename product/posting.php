@@ -47,9 +47,7 @@ include_once '../header.php';
 
         <div class="submit_from_section photo_box">
         <label for="upload">Upload Photo<div class="red">*</div></label>
-        <input type="file" name="file[]" value="">
-        <input type="file" name="file[]" value="">
-        <input type="file" name="file[]" value="">
+        <input type="file" name="image" value="">
         </div>
         <div class="submit_from_section">
             <label for="name">Name<div class="red">*</div></label>
@@ -67,7 +65,7 @@ include_once '../header.php';
         <span><?php echo isset($error['pro_price'])?$error['pro_price']:''; ?></span>
         </div>
          <div class="submit_from_section">
-        <input type="submit" value="Submit">
+        <input type="submit" value="Submit" name="submit">
          </div>
     </form>
 </div>

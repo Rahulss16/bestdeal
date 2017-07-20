@@ -18,7 +18,7 @@ $id = $_GET['id'];
     // echo "<pre>"; print_r($result); die;
     if($result){
 //        echo 'data inserted successfully';
-        header('Location:../dash/categories.php');
+        header('Location:../categories.php');
     }
 
 

@@ -1,4 +1,4 @@
-<?php include_once('../config/config.php'); ?>
+<?php include_once('config/config.php'); ?>
 
 <html>
 <head>
@@ -10,15 +10,16 @@
 <body>
 <div id="head">
     <div align="right" id="font">
-        <div class="contact"> <a href="<?php echo SITE_URL . 'contact.php'; ?>"><i class="fa fa-phone-square"></i> +919460004026</a></div>&nbsp;
+        <div class="contact"> <a href="<?php echo SITE_URL . 'contact.php'; ?>"><i class="fa fa-phone-square"></i> +917665010205</a></div>&nbsp;
         <ul class="head_top_navgation">
+<!--            -->
             <?php if(isset($_SESSION['email'])){?>
             <li>
 
                     <a href="#" id="account"><i class="fa fa-user" ></i> My Account</a>
                     <ul>
-                        <li><a href="#">Change Password</a></li>
-                        <li><a href="#">Change Profile</a></li>
+                        <li><a href="change_password.php">Change Password</a></li>
+                        <li><a href="#">View Profile</a></li>
 
                     </ul>
             </li>

@@ -20,12 +20,12 @@ $category  =  mysqli_query($db,$category_sql);
         <div class="product-thumb transition">
             <div class="image">
 
-                    <img src="<?php echo IMAGE_URL . $row['pro_image'];?>" alt="MacBook" title="MacBook" class="img-responsive"></a></div>
+                    <img src="<?php echo IMAGE_URL . $row['pro_image'];?>"></div>
             <div class="caption">
                 <h4>
+                    <a href="<?php echo SITE_URL   . "product/description.php?id=" . $row['pro_id']; ?>">
+                        <?php echo $row['pro_name']; ?></a>
 
-                        <?php echo $row['pro_name']; ?>
-                    </a>
                 </h4>
                 <p>
                     <?php

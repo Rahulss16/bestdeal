@@ -11,7 +11,9 @@ if(isset($_POST) && !empty($_POST)) {
     $seller_num = trim($_POST['seller_num']);
     $pro_price = trim($_POST['pro_price']);
     $pro_name = trim($_POST['pro_name']);
-
+    $image = ($_FILES['image']['name']);
+//    print_r($image);
+//    die("h");
     $error = [];
     if (empty($pro_name)){
         $error['pro_name'] = "please enter your name";
@@ -35,6 +37,14 @@ if(isset($_POST) && !empty($_POST)) {
     if (empty($pro_price)){
         $error['pro_price'] = "Please enter the Product Price";
     }
+    if (empty($image)){
+        $error['image'] = "Please select an image";
+    }
+    if (isset($_POST['submit'])){
+        $target = '/var/www/html/bestdeal/uploads/';
+        $target = $target .basename($_FILES['image']['name']);
+
+    }
 
     if(!empty($error)){
         $_SESSION['value'] =$value;
@@ -43,6 +53,7 @@ if(isset($_POST) && !empty($_POST)) {
      //   print_r($error); die;
        // $site_url = SITE_URL . 'product/posting.php';
         header("Location:../product/posting.php");
+        die;
     }
 
 // Check connection
@@ -52,12 +63,21 @@ if(isset($_POST) && !empty($_POST)) {
 
 //echo "<pre>"; print_r($db); die;
 
-    $sql = "INSERT INTO tbl_product (pro_title,pro_description,seller_name,seller_num,pro_category_id,pro_price,pro_name) VALUES ('".$ad_title."','".$subject."','".$name."','".$seller_num."','".$category."','".$pro_price."','".$pro_name."')";
+    $sql = "INSERT INTO tbl_product (pro_title,pro_description,seller_name,seller_num,pro_category_id,pro_price,pro_name,pro_image)
+            VALUES ('".$ad_title."','".$subject."','".$name."','".$seller_num."','".$category."','".$pro_price."','".$pro_name."','".$image."')";
 //    echo $sql; die;
     $result = $db->query($sql);
     // echo "<pre>"; print_r($result); die;
+    if(move_uploaded_file($_FILES['image']['tmp_name'],$target))
+
+    {
+        echo "success";
+    }else{
+        echo "sorry";
+    }
     if($result){
-        echo 'data inserted successfully';
+        header('Location:../index.php');
+        //echo 'data inserted successfully';
     }
 
     else{

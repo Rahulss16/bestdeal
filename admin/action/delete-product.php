@@ -18,7 +18,7 @@ if(isset($_GET['id']) && !empty($_GET['id'])){
     // echo "<pre>"; print_r($result); die;
     if($result){
 //        echo 'data inserted successfully';
-        header('Location:../dash/product.php');
+        header('Location:../product.php');
     }
 
 

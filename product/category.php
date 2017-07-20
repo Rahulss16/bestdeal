@@ -18,9 +18,9 @@ if(mysqli_num_rows($category)>0) {
                     <img src="<?php echo IMAGE_URL . $row['pro_image'];?>" ></a></div>
             <div class="caption">
                 <h4>
+                    <a href="<?php echo SITE_URL   . "product/description.php?id=" . $row['pro_id']; ?>">
+                        <?php echo $row['pro_name']; ?></a>
 
-                        <?php echo $row['pro_name']; ?>
-                    </a>
                 </h4>
                 <p>
                     <?php

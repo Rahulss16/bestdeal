@@ -13,7 +13,7 @@ include_once '../header.php';
 
 <p>Last updated: (10th July 2017)</p>
 
-    <p>BestDeals  we operates http://localhost/21-06/index.php (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.</p>
+    <p><a href="http://localhost/bestdeal/index.php">BestDeals</a>  we operates  (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.</p>
 
     <p>We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.</p>
 

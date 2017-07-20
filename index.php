@@ -93,7 +93,7 @@ include_once 'header.php';
                             <div class="card_text">
                                 <h4>
                                     <?php echo $row['pro_name']; ?>
-                                    </a>
+
                                 </h4>
                                 <p>
                                     <?php

@@ -19,7 +19,7 @@ $latest_product  =  mysqli_query($db,$latest_product_sql);
             <div class="caption_detail">
                 <p>
 
-                        <?php echo $row['pro_name']; ?>
+                       <b> <?php echo $row['pro_name']; ?></b>
 
                 </p>
                 <p>
@@ -30,6 +30,16 @@ $latest_product  =  mysqli_query($db,$latest_product_sql);
                 <p class="price">
                     <?php
                     echo "₹".$row['pro_price'];
+                    ?>
+                </p>
+                <p class="price">
+                    <?php
+                    echo "Seller Name: ".$row['seller_name'];
+                    ?>
+                </p>
+                <p class="price">
+                    <?php
+                    echo "Seller Number: ".$row['seller_num'];
                     ?>
                 </p>
             </div>
