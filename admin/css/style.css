@@ -116,10 +116,12 @@ label {
     vertical-align: middle;
     white-space: nowrap;
 }
-footer {
-    height: 100px;
+ .foot {
+    /*min-height: 400px;*/
+
     text-align: center;
     margin-top: 3%;
+
 }
 /*ADD-CATEGORY*/
 
@@ -179,6 +181,7 @@ input[type=submit]:hover {
     width: 100%;
     display: block;
     margin: 70px 0px 0px;
+    min-height: 500px;
 }
 header a
 a {
@@ -222,6 +225,7 @@ a {
     padding: 10px;
     width: 82%;
     display: block;
+    min-height: 445px;
 }
 .deshboard_head{background: #eee; display: block;  padding: 10px;    position: fixed;    top: 0;vertical-align: top;width: 100%; z-index: 999;}
 .deshboard_head ul{float: right; width: 30%; display: block; padding-right: 25px; list-style: none; text-align: right;}
@@ -277,3 +281,12 @@ a {
 .dashboard-category-tables tr td .fa{font-size: 22px; padding-right: 10px;}
 /*user*/
 
+footer{
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    background-color: #555;
+    color: white;
+}

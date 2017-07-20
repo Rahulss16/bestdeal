@@ -57,3 +57,6 @@ include_once 'config/config.php';
     </body>
 
 </html>
+<?php
+include_once 'footer.php';
+?>

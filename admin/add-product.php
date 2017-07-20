@@ -88,4 +88,7 @@ $categories  =  mysqli_query($db,$category_sql);
 </body>
 
 </html>
+<?php
+include_once 'footer.php';
+?>
 

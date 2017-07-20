@@ -16,10 +16,10 @@
             <?php if(isset($_SESSION['email'])){?>
             <li>
 
-                    <a href="#" id="account"><i class="fa fa-user" ></i> My Account</a>
+                    <a href="#" id="account"><i class="fa fa-user" ></i> Welcome</a>
                     <ul>
                         <li><a href="change_password.php">Change Password</a></li>
-                        <li><a href="#">View Profile</a></li>
+                        <li><a href="view-profile.php">View Profile</a></li>
 
                     </ul>
             </li>

@@ -96,4 +96,7 @@ $user = mysqli_query($db,$user_sql);
 </body>
 
 </html>
+<?php
+include_once 'footer.php';
+?>
 

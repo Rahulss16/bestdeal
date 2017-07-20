@@ -2,92 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b68a4c-4e99-425f-80ee-62a45fe6f2fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/action/do-change.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/action/delete-user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/action/do-user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/user.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/dash/add-category.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/dash/add-product.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/dash/categories.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/dash/product.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/dash/user.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/include.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/3in1.jpg" afterPath="$PROJECT_DIR$/uploads/3in1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/411nUnjz9eL.jpg" afterPath="$PROJECT_DIR$/uploads/411nUnjz9eL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/41D7dUKxOnL.jpg" afterPath="$PROJECT_DIR$/uploads/41D7dUKxOnL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/41G2ezudEAL.jpg" afterPath="$PROJECT_DIR$/uploads/41G2ezudEAL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/41YjyqOaksL.jpg" afterPath="$PROJECT_DIR$/uploads/41YjyqOaksL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/51geO+X4sRL._SL1000_.jpg" afterPath="$PROJECT_DIR$/uploads/51geO+X4sRL._SL1000_.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/81MBAcPvr+L._SL1500_.jpg" afterPath="$PROJECT_DIR$/uploads/81MBAcPvr+L._SL1500_.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/81uGBY4-hFL._SL1500_.jpg" afterPath="$PROJECT_DIR$/uploads/81uGBY4-hFL._SL1500_.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/Lenovo_Z2.jpg" afterPath="$PROJECT_DIR$/uploads/Lenovo_Z2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/Sony_A77.jpg" afterPath="$PROJECT_DIR$/uploads/Sony_A77.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/acer.jpg" afterPath="$PROJECT_DIR$/uploads/acer.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/canon1.jpg" afterPath="$PROJECT_DIR$/uploads/canon1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/canon2.jpeg" afterPath="$PROJECT_DIR$/uploads/canon2.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/canon2.jpg" afterPath="$PROJECT_DIR$/uploads/canon2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/de.jpg" afterPath="$PROJECT_DIR$/uploads/de.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/dell.jpg" afterPath="$PROJECT_DIR$/uploads/dell.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/dell.png" afterPath="$PROJECT_DIR$/uploads/dell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/desk.jpg" afterPath="$PROJECT_DIR$/uploads/desk.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/desl1.jpg" afterPath="$PROJECT_DIR$/uploads/desl1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/head.jpg" afterPath="$PROJECT_DIR$/uploads/head.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/hp.jpeg" afterPath="$PROJECT_DIR$/uploads/hp.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/hp.jpg" afterPath="$PROJECT_DIR$/uploads/hp.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/i5.jpg" afterPath="$PROJECT_DIR$/uploads/i5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/i6s.jpg" afterPath="$PROJECT_DIR$/uploads/i6s.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/i7.jpg" afterPath="$PROJECT_DIR$/uploads/i7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/ikall.jpg" afterPath="$PROJECT_DIR$/uploads/ikall.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/key.jpg" afterPath="$PROJECT_DIR$/uploads/key.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/led.jpg" afterPath="$PROJECT_DIR$/uploads/led.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/ledesk.jpg" afterPath="$PROJECT_DIR$/uploads/ledesk.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/len.jpg" afterPath="$PROJECT_DIR$/uploads/len.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/lenovo.jpg" afterPath="$PROJECT_DIR$/uploads/lenovo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/lg_g6.jpg" afterPath="$PROJECT_DIR$/uploads/lg_g6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/maaac.jpg" afterPath="$PROJECT_DIR$/uploads/maaac.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/mac.jpg" afterPath="$PROJECT_DIR$/uploads/mac.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/max.jpg" afterPath="$PROJECT_DIR$/uploads/max.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/micro.jpg" afterPath="$PROJECT_DIR$/uploads/micro.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/moto1.jpg" afterPath="$PROJECT_DIR$/uploads/moto1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/moto2.jpg" afterPath="$PROJECT_DIR$/uploads/moto2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/moto3.jpg" afterPath="$PROJECT_DIR$/uploads/moto3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/moto4.jpg" afterPath="$PROJECT_DIR$/uploads/moto4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/nik.jpg" afterPath="$PROJECT_DIR$/uploads/nik.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/nikon.jpg" afterPath="$PROJECT_DIR$/uploads/nikon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/nikon_1.jpg" afterPath="$PROJECT_DIR$/uploads/nikon_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/nikon_2.jpg" afterPath="$PROJECT_DIR$/uploads/nikon_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/nikoon.jpg" afterPath="$PROJECT_DIR$/uploads/nikoon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/penta.jpg" afterPath="$PROJECT_DIR$/uploads/penta.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/sam_guru.jpg" afterPath="$PROJECT_DIR$/uploads/sam_guru.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/sam_j7.jpeg" afterPath="$PROJECT_DIR$/uploads/sam_j7.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/sam_j7.jpg" afterPath="$PROJECT_DIR$/uploads/sam_j7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/sam_rex.jpg" afterPath="$PROJECT_DIR$/uploads/sam_rex.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/sams_guru.jpg" afterPath="$PROJECT_DIR$/uploads/sams_guru.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/sony_1.jpg" afterPath="$PROJECT_DIR$/uploads/sony_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/sony_3.jpg" afterPath="$PROJECT_DIR$/uploads/sony_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/sony_cyber.jpg" afterPath="$PROJECT_DIR$/uploads/sony_cyber.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/vr.jpg" afterPath="$PROJECT_DIR$/uploads/vr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/footer.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/attachment.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/action/do_posting.php" afterPath="$PROJECT_DIR$/action/do_posting.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/action/do_register.php" afterPath="$PROJECT_DIR$/action/do_register.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/action/delete-category.php" afterPath="$PROJECT_DIR$/admin/action/delete-category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/action/delete-product.php" afterPath="$PROJECT_DIR$/admin/action/delete-product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/action/do-catergory.php" afterPath="$PROJECT_DIR$/admin/action/do-catergory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/action/do-product.php" afterPath="$PROJECT_DIR$/admin/action/do-product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/add-category.php" afterPath="$PROJECT_DIR$/admin/add-category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/add-product.php" afterPath="$PROJECT_DIR$/admin/add-product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/add-user.php" afterPath="$PROJECT_DIR$/admin/add-user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/categories.php" afterPath="$PROJECT_DIR$/admin/categories.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/css/style.css" afterPath="$PROJECT_DIR$/admin/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/dashboard.php" afterPath="$PROJECT_DIR$/admin/dashboard.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/change_password.php" afterPath="$PROJECT_DIR$/change_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/index.php" afterPath="$PROJECT_DIR$/admin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/message.php" afterPath="$PROJECT_DIR$/admin/message.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/product.php" afterPath="$PROJECT_DIR$/admin/product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/user.php" afterPath="$PROJECT_DIR$/admin/user.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/home.css" afterPath="$PROJECT_DIR$/css/home.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/register.css" afterPath="$PROJECT_DIR$/css/register.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/category.php" afterPath="$PROJECT_DIR$/product/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/description.php" afterPath="$PROJECT_DIR$/product/description.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/posting.php" afterPath="$PROJECT_DIR$/product/posting.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/privacy.php" afterPath="$PROJECT_DIR$/product/privacy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/search.php" afterPath="$PROJECT_DIR$/product/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/registration.php" afterPath="$PROJECT_DIR$/registration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view-profile.php" afterPath="$PROJECT_DIR$/view-profile.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -110,13 +40,104 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="view-profile.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/view-profile.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="334">
+              <caret line="227" column="22" lean-forward="false" selection-start-line="227" selection-start-column="22" selection-end-line="227" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="95" column="2" lean-forward="false" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
               <folding>
-                <marker date="1500550784493" expanded="true" signature="193:218" ph="SELECT * FRO... tbl_employe" />
+                <marker date="1500554907668" expanded="true" signature="150:175" ph="SELECT * FRO... tbl_product" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/add-user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="80" column="2" lean-forward="false" selection-start-line="80" selection-start-column="2" selection-end-line="80" selection-end-column="2" />
+              <folding>
+                <marker date="1500554935505" expanded="true" signature="380:424" ph="SELECT * FRO... tbl_employe" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-category.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/add-category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="59" column="2" lean-forward="false" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
+              <folding>
+                <marker date="1500554935553" expanded="true" signature="382:423" ph="SELECT * FRO... tbl_category" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/add-product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="92" column="2" lean-forward="false" selection-start-line="92" selection-start-column="2" selection-end-line="92" selection-end-column="2" />
+              <folding>
+                <marker date="1500555297754" expanded="true" signature="392:436" ph="SELECT * FRO... tbl_product" />
+                <marker date="1500555297754" expanded="true" signature="629:700" ph="SELECT * fro... tbl_category" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/message.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="70" column="2" lean-forward="false" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+              <folding>
+                <marker date="1500555311454" expanded="true" signature="138:166" ph="SELECT * FRO... tbl_contact_us" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="100" column="2" lean-forward="false" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
+              <folding>
+                <marker date="1500555317398" expanded="true" signature="140:165" ph="SELECT * FRO... tbl_employe" />
               </folding>
             </state>
           </provider>
@@ -144,9 +165,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/style2.css" />
         <option value="$PROJECT_DIR$/action/dashboard.php" />
-        <option value="$PROJECT_DIR$/admin/index.php" />
         <option value="$PROJECT_DIR$/admin/action/login.php" />
         <option value="$PROJECT_DIR$/admin/css/back-end.css" />
         <option value="$PROJECT_DIR$/admin/dash/user.php" />
@@ -160,18 +179,12 @@
         <option value="$PROJECT_DIR$/admin/include.php" />
         <option value="$PROJECT_DIR$/admin/dash/categories.php" />
         <option value="$PROJECT_DIR$/admin/dash/add-category.php" />
-        <option value="$PROJECT_DIR$/admin/add-category.php" />
         <option value="$PROJECT_DIR$/admin/action/do-catergory.php" />
         <option value="$PROJECT_DIR$/admin/action/delete-category.php" />
         <option value="$PROJECT_DIR$/admin/action/delete-product.php" />
         <option value="$PROJECT_DIR$/admin/js/js.js" />
-        <option value="$PROJECT_DIR$/admin/product.php" />
-        <option value="$PROJECT_DIR$/admin/categories.php" />
-        <option value="$PROJECT_DIR$/admin/message.php" />
-        <option value="$PROJECT_DIR$/admin/dashboard.php" />
         <option value="$PROJECT_DIR$/admin/header.php" />
         <option value="$PROJECT_DIR$/product/posting.php" />
-        <option value="$PROJECT_DIR$/admin/add-product.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/product/privacy.php" />
         <option value="$PROJECT_DIR$/product/category.php" />
@@ -179,22 +192,30 @@
         <option value="$PROJECT_DIR$/css/register.css" />
         <option value="$PROJECT_DIR$/action/do_register.php" />
         <option value="$PROJECT_DIR$/action/do_posting.php" />
-        <option value="$PROJECT_DIR$/css/home.css" />
         <option value="$PROJECT_DIR$/product/terms.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/admin/action/do-product.php" />
         <option value="$PROJECT_DIR$/admin/action/delete-user.php" />
         <option value="$PROJECT_DIR$/admin/left-section.php" />
-        <option value="$PROJECT_DIR$/admin/user.php" />
-        <option value="$PROJECT_DIR$/admin/css/style.css" />
         <option value="$PROJECT_DIR$/registration.php" />
-        <option value="$PROJECT_DIR$/admin/add-user.php" />
         <option value="$PROJECT_DIR$/product/search.php" />
         <option value="$PROJECT_DIR$/admin/action/do-user.php" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/action/do-change.php" />
         <option value="$PROJECT_DIR$/change_password.php" />
+        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/view-profile.php" />
+        <option value="$PROJECT_DIR$/css/home.css" />
+        <option value="$PROJECT_DIR$/admin/footer.php" />
+        <option value="$PROJECT_DIR$/admin/dashboard.php" />
+        <option value="$PROJECT_DIR$/admin/categories.php" />
+        <option value="$PROJECT_DIR$/admin/product.php" />
+        <option value="$PROJECT_DIR$/admin/add-user.php" />
+        <option value="$PROJECT_DIR$/admin/add-category.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/add-product.php" />
+        <option value="$PROJECT_DIR$/admin/message.php" />
+        <option value="$PROJECT_DIR$/admin/user.php" />
+        <option value="$PROJECT_DIR$/admin/css/style.css" />
       </list>
     </option>
   </component>
@@ -248,7 +269,39 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bestdeal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bestdeal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bestdeal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bestdeal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -389,7 +442,7 @@
       <workItem from="1500260195884" duration="677000" />
       <workItem from="1500356946554" duration="618000" />
       <workItem from="1500445222047" duration="19099000" />
-      <workItem from="1500529922265" duration="18016000" />
+      <workItem from="1500529922265" duration="22321000" />
     </task>
     <task id="LOCAL-00001" summary="name changed">
       <created>1499850233696</created>
@@ -409,7 +462,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="358340000" />
+    <option name="totallyTimeSpent" value="362645000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -478,14 +531,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin/dash/user.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/dash/edit-category.php" />
     <entry file="file://$PROJECT_DIR$/admin/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -516,34 +561,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/js/js.js" />
-    <entry file="file://$PROJECT_DIR$/admin/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="42" column="75" lean-forward="false" selection-start-line="42" selection-start-column="75" selection-end-line="42" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/message.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/categories.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -629,24 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="258" column="76" lean-forward="false" selection-start-line="258" selection-start-column="76" selection-end-line="258" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="87" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding>
-            <marker date="1500125181140" expanded="true" signature="150:175" ph="SELECT * FRO... tbl_product" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/left-section.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -659,14 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="78" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="152" column="39" lean-forward="false" selection-start-line="152" selection-start-column="39" selection-end-line="152" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -754,16 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/user.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <marker date="1500539450319" expanded="true" signature="140:165" ph="SELECT * FRO... tbl_employe" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -798,24 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/do-change.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <marker date="1500548883344" expanded="true" signature="925:988" ph="UPDATE tbl_e... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/action/do_posting.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -828,44 +791,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/add-product.php">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <marker date="1500457575501" expanded="true" signature="392:436" ph="SELECT * FRO... tbl_product" />
-            <marker date="1500457575501" expanded="true" signature="629:700" ph="SELECT * fro... tbl_category" />
-          </folding>
+        <state relative-caret-position="230">
+          <caret line="18" column="80" lean-forward="false" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/add-user.php">
+    <entry file="file://$PROJECT_DIR$/admin/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding>
-            <marker date="1500539935737" expanded="true" signature="380:424" ph="SELECT * FRO... tbl_employe" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/add-category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <marker date="1500119171818" expanded="true" signature="382:423" ph="SELECT * FRO... tbl_category" />
+            <element signature="e#46#52#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/view-profile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="199">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="39" />
           <folding>
-            <marker date="1500550784493" expanded="true" signature="193:218" ph="SELECT * FRO... tbl_employe" />
+            <marker date="1500553732479" expanded="true" signature="194:243" ph="SELECT * FRO... tbl_employe" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="283" column="12" lean-forward="false" selection-start-line="283" selection-start-column="12" selection-end-line="283" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="95" column="2" lean-forward="false" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
+          <folding>
+            <marker date="1500554907668" expanded="true" signature="150:175" ph="SELECT * FRO... tbl_product" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/add-user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="80" column="2" lean-forward="false" selection-start-line="80" selection-start-column="2" selection-end-line="80" selection-end-column="2" />
+          <folding>
+            <marker date="1500554935505" expanded="true" signature="380:424" ph="SELECT * FRO... tbl_employe" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/add-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="59" column="2" lean-forward="false" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
+          <folding>
+            <marker date="1500554935553" expanded="true" signature="382:423" ph="SELECT * FRO... tbl_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="95" selection-end-column="2" />
+          <folding>
+            <marker date="1500554853578" expanded="true" signature="150:176" ph="SELECT * FRO... tbl_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/do-change.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <marker date="1500548883344" expanded="true" signature="925:988" ph="UPDATE tbl_e... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="61" selection-end-column="2" />
+          <folding>
+            <marker date="1500554539843" expanded="true" signature="120:168" ph="SELECT COUNT... tbl_employe" />
+            <marker date="1500554539843" expanded="true" signature="349:397" ph="SELECT COUNT... tbl_product" />
+            <marker date="1500554539843" expanded="true" signature="586:637" ph="SELECT COUNT... tbl_contact_us" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/add-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" column="2" lean-forward="false" selection-start-line="92" selection-start-column="2" selection-end-line="92" selection-end-column="2" />
+          <folding>
+            <marker date="1500555297754" expanded="true" signature="392:436" ph="SELECT * FRO... tbl_product" />
+            <marker date="1500555297754" expanded="true" signature="629:700" ph="SELECT * fro... tbl_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="70" column="2" lean-forward="false" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+          <folding>
+            <marker date="1500555311454" expanded="true" signature="138:166" ph="SELECT * FRO... tbl_contact_us" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="100" column="2" lean-forward="false" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
+          <folding>
+            <marker date="1500555317398" expanded="true" signature="140:165" ph="SELECT * FRO... tbl_employe" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="227" column="22" lean-forward="false" selection-start-line="227" selection-start-column="22" selection-end-line="227" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>

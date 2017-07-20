@@ -44,7 +44,7 @@ unset($_SESSION['values']);
     </div>
 
 </div>
-<footer>
+<footer class="foot">
     <a href="#">Bestdeal</a>
     © 2017-2018 All Rights Reserved.
     <br>

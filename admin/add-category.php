@@ -55,3 +55,6 @@ if ((isset($_GET['id']) && $_GET['id'] > 0) || (isset($value['id']) && $value['i
 </body>
 
 </html>
+<?php
+include_once 'footer.php';
+?>

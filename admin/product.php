@@ -91,3 +91,6 @@ $product = mysqli_query($db,$product_sql);
 
 </html>
 
+<?php
+include_once 'footer.php';
+?>
