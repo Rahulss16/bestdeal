@@ -44,6 +44,7 @@ if(isset($_POST) && !empty($_POST)) {
     $result = $db->query($sql);
     // echo "<pre>"; print_r($result); die;
     if($result){
+        header('Location: ../index.php');
         echo 'data inserted successfully';
     }
 
